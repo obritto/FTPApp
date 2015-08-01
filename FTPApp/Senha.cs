@@ -10,7 +10,7 @@ namespace FTPApp
     {
         public static string GetSenha()
         {
-            return "t1984";
+            return "123456";
         }
 
     }
